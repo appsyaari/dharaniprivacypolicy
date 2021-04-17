@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Telangana (Dharani) ROR-1B & Pahani Records (CCLA)</title>
+        <item>
+            <title>Version 1.0.2</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sat, 17 Apr 2021 11:30:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.0.2" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
