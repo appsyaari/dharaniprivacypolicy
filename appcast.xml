@@ -3,10 +3,10 @@
     <channel>
         <title>Telangana (Dharani) ROR-1B & Pahani Records (CCLA)</title>
         <item>
-            <title>Version 1.0.8</title>
-            <description>Find Prohibited Land Details & Passbook Bug Fixes</description>
-            <pubDate>Sat, 05 Jun 2021 11:30:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.0.8" sparkle:os="android" />
+            <title>Version 1.0.9</title>
+            <description>Fixed All Major Bugs & Passbook Bug Fixes</description>
+            <pubDate>Thu, 05 Aug 2021 11:30:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.0.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
