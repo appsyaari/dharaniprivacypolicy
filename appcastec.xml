@@ -6,7 +6,7 @@
             <title>Version 1.0.0</title>
             <description>New Launch</description>
             <pubDate>Sat, 28 May 2022 11:30:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ec_app" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sgutha.ec_app" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
