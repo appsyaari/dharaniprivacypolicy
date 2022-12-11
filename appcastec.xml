@@ -3,10 +3,10 @@
     <channel>
         <title>Encumbrance (EC) Search App</title>
         <item>
-            <title>Version 1.0.5</title>
+            <title>Version 1.0.6</title>
             <description>All bug fixes</description>
-            <pubDate>Sun, 02 Nov 2022 11:30:00 +0530</pubDate>
-            <enclosure url="market://details?id=com.sgutha.ec_app" sparkle:version="1.0.5" sparkle:os="android" />
+            <pubDate>Sun, 11 Dec 2022 11:30:00 +0530</pubDate>
+            <enclosure url="market://details?id=com.sgutha.ec_app" sparkle:version="1.0.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
