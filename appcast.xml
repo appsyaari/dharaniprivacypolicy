@@ -3,10 +3,10 @@
     <channel>
         <title>Telangana (Dharani) ROR-1B & Pahani Records (CCLA)</title>
         <item>
-            <title>Version 1.2.7</title>
-            <description>**Added Hanumakonda & Warangal Districts. Fixed App Crashes issue & Added Search History Feature</description>
-            <pubDate>Fri, 25 August 2023 11:30:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.2.7" sparkle:os="android" />
+            <title>Version 1.2.8</title>
+            <description>**Added Zoom In/out fuunctionality in maps. Fixed App Crashes issue & Added Search History Feature</description>
+            <pubDate>Thu, 19 October 2023 11:30:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.2.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
