@@ -3,10 +3,10 @@
     <channel>
         <title>Landsnap Land Records</title>
         <item>
-            <title>Version 1.3.1</title>
-            <description>New UI Update</description>
-            <pubDate>Fri, 14 Mar 2024 11:30:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.3.1" sparkle:os="android" />
+            <title>Version 1.3.2</title>
+            <description>Fixed Passbook screen issues</description>
+            <pubDate>Tue, 25 Mar 2024 11:30:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=sgutha.com.ts_land" sparkle:version="1.3.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
